@@ -1,0 +1,4 @@
+wolframalpha
+wikipedia
+pyttsx3
+pypiwin32

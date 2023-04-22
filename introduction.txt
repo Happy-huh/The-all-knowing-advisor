@@ -1,0 +1,6 @@
+Good day! I am wolfram|Alpha the all knowing advisor, I possess knowledge on every topic and have answers to any question you ask of me. 
+You can ask me any question or engage me in a conversation but any which it be, gaining enlightenment does not come cheap. 
+You will be charged a compulsry fee of $2 per minute. 
+You can ask me any question of your choice by typing question or engage me in a discussion by typing chat or quit this program by typing quit case insensitively.
+And also if you choose to converse with me you can still ask specific questions by typing 'know' in single quotaion marks then your question and I will answer. 
+You can quit chatting anytime by pressing control + d.
